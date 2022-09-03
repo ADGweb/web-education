@@ -1,0 +1,25 @@
+{
+  "name": "web-education",
+  "version": "1.0.0",
+  "description": "Professional development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADGweb/web-education.git"
+  },
+  "keywords": [
+    "project",
+    "web",
+    "skills",
+    "development"
+  ],
+  "author": "Dmitriy Avdeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADGweb/web-education/issues"
+  },
+  "homepage": "https://github.com/ADGweb/web-education#readme"
+}
